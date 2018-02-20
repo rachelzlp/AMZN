@@ -3,7 +3,7 @@ Created on Aug 28, 2017
 '''
 
 #AMAP key
-key = 'a5717efe281fea54c2a03cc00310ae08'
+key = ''
 
 
 #VR candidate set
